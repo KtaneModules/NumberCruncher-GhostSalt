@@ -1,0 +1,10 @@
+{
+  "name": "GSNumberCruncher-Editor",
+  "references": [
+    "GSNumberCruncher"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": []
+}

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 615501dbe4f3fe94fbf4b564abb10237, type: 3}
+  m_Name: ModConfig
+  m_EditorClassIdentifier: 
+  id: GSNumberCruncher
+  title: Number Cruncher
+  author: GhostSalt
+  description: "Modules made by GS Electronics & Co.&trade; were slightly smaller
+    in the year after their founding, compared to their modules afterwards. That's
+    because there were no standards in place for the relative sizes and functions
+    of bomb components, and you were just expected to know which modules would fit
+    on what casing, et cetera. While this specific line of modules was discontinued
+    after IBM (International Bomb Maintenance) set their standards, you can still
+    occasionally find them on bombs to this day, but getting them to fit on modern
+    bombs takes some artistic licence.\n\nFriggin' long flavour text. Really proud
+    of how this turned out.\n\nGS Electronics & Co\u2122 were kind enough to provide
+    us with Twitch Plays support. Fun!"
+  version: 1.0
+  outputFolder: build
+  previewImage: {fileID: 2800000, guid: 9d495faf4d50d5a45a1d6b92309c0200, type: 3}
